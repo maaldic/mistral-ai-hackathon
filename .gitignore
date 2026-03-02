@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[codz]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Environments
+.env
+.venv
+venv/
+env/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Playwright
+playwright-report/
+
+logs/
+
+# Misc
+*.log
